@@ -1,7 +1,7 @@
 # Ninebot-GT3-Custom-BLE
 Ninebot GT3 Custom BLE (Dashboard)
 
-Hier entsteht ein Custom Dashboard, es ist komplett Open-Source,
+Hier entsteht ein Custom Dashboard,
 ich gebe es frei zum Download bereit sodass jeder es installieren kann und frei nutzen kann.
 
 Ich lade nur ein Dashboard hoch wenn ich es getestet habe sodass man keine sorgen haben muss.
